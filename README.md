@@ -2,7 +2,7 @@
 
 An immersive 3D storytelling experience that transforms imagination into living, breathing digital worlds.
 
-🔗 Live Demo: https://rlmumlfeytpwe.kimi.page
+🔗 Live Demo: (https://chronicles22.netlify.app/)
 
 ✨ Overview
 
