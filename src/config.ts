@@ -253,7 +253,7 @@ export const footerConfig: FooterConfig = {
   visitLines: [
     "Chronicles of the Living",
     "Immersive 3D Storytelling Studio",
-    "Los Angeles, California",
+    "Khardah,Kolkata,India",
     "Open by appointment",
   ],
   connectLabel: "Connect",
