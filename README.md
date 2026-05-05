@@ -1,4 +1,4 @@
-🌌 Chronicles — Where Stories Come Alive
+**🌌 Chronicles — Where Stories Come Alive**
 
 An immersive 3D storytelling experience that transforms imagination into living, breathing digital worlds.
 
